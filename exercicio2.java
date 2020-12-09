@@ -9,3 +9,12 @@ public class Exercicio8 {
         int num = 0;
         int fig = 1;
         Scanner sc = new Scanner(System.in);
+
+	System.out.println("Introduzca un número entre 3 e 10:");
+        n = sc.nextInt();
+        System.out.println("");
+
+
+		
+	        
+		     
