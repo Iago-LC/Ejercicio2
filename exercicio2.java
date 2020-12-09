@@ -21,7 +21,23 @@ public class Exercicio8 {
                 System.out.print("*");
             }
 
-	
+for (int i = 0; i < blanco; i++) {
+                System.out.print(" ");
+            }
+            for (int i = 0; i < fig; i++) {
+                System.out.print("*");
+            }
+            System.out.println("");
+            blanco = blanco - 2;
+            fig++;
+
+            num++;
+        }
+
+        System.out.println("");
+    }
+
+}		
 		
 	        
 		     
