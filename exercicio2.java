@@ -14,7 +14,14 @@ public class Exercicio8 {
         n = sc.nextInt();
         System.out.println("");
 
+	}
+        blanco = (n * 2) - 2;
+        while (num < n) {
+            for (int i = 0; i < fig; i++) {
+                System.out.print("*");
+            }
 
+	
 		
 	        
 		     
